@@ -1,7 +1,7 @@
 # Clock
 JavaScript를 사용하여 시계 만들기
 ### 자바 스크립트를 이용해 현재 시간을 불러와 화면에 나타내주는 프로그램이다
-![image](https://github.com/leeyongha2006/Clock/assets/126844590/a63876c5-6979-4f88-9bc6-e7e30142ae89)
+![image](https://github.com/leeyongha2006/Clock/assets/126844590/f2f8cf70-4b47-483d-a0f2-88d2043d5a8b)
 
 ## javascript
 ```javascript
